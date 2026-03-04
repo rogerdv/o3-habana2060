@@ -1,0 +1,10 @@
+[export_project]
+project.build.config = release
+archive.output.format = zip
+seedlist.paths = AssetBundling/SeedLists/*.seed
+option.build.assets = True
+option.build.tools = True
+default.level.names = TP_Lua
+option.build.unified.launcher = False
+option.build.server.launcher = False
+

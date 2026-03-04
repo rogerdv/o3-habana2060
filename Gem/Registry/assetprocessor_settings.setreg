@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder Habana2060/Assets": {
+                    "watch": "@GEMROOT:Habana2060@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder Habana2060/Registry": {
+                    "watch": "@GEMROOT:Habana2060@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

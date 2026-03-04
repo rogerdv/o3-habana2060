@@ -1,0 +1,22 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Red/container 1_low_DefaultMaterial_AlbedoTransparency 1.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "normal.textureMap": "Red/container 1_low_DefaultMaterial_Normal 1.jpg",
+        "opacity.factor": 1.0,
+        "specularF0.textureMap": "Red/container 1_low_DefaultMaterial_SpecularSmoothness 1.jpg"
+    }
+}

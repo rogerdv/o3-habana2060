@@ -1,0 +1,46 @@
+{
+    "project_name": "Habana2060",
+    "version": "1.0.0",
+    "project_id": "{F0DF8702-5070-4CE6-B693-2BA0F757D9D4}",
+    "origin": "The primary repo for Habana2060 goes here: i.e. http://www.mydomain.com",
+    "license": "What license Habana2060 uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "Habana2060",
+    "summary": "A short description of Habana2060.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Habana2060"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "Habana2060",
+    "gem_names": [
+        "Habana2060",
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "MiniAudio",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox",
+        "RemoteTools"
+    ]
+}

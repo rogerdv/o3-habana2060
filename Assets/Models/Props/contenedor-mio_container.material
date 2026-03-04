@@ -1,0 +1,22 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.8501564264297485,
+            0.8663309812545776,
+            0.7911345362663269,
+            1.0
+        ],
+        "baseColor.textureMap": "container-house-diff.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.4699999988079071
+    }
+}

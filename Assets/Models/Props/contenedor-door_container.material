@@ -1,0 +1,22 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.36125728487968445,
+            0.4019683003425598,
+            0.2307489514350891,
+            1.0
+        ],
+        "baseColor.textureMap": "container-door.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "general.doubleSided": true,
+        "opacity.factor": 1.0,
+        "roughness.factor": 0.5
+    }
+}
